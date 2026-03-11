@@ -142,7 +142,7 @@ Producto
 
 El siguiente diagrama muestra las entidades principales del sistema y sus relaciones.
 
-![Diagrama UML](docs/modelo-uml.png)
+![Diagrama UML](diagramaUML.png)
 
 # ⚙️ Tecnologías utilizadas
 
