@@ -138,6 +138,12 @@ Producto
 
 ---
 
+# 📊 Diagrama del Modelo de Datos
+
+El siguiente diagrama muestra las entidades principales del sistema y sus relaciones.
+
+![Diagrama UML](docs/modelo-uml.png)
+
 # ⚙️ Tecnologías utilizadas
 
 Este proyecto utiliza las siguientes tecnologías:
